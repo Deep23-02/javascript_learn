@@ -6,7 +6,7 @@ let accState
 // accountId = 2
 accEmail = "abc@gmail.com"
 accPassword = "1234565445"
-accCity = "Surat"
+accCity = "jAIPUR"
 
 console.log(accountId);
 console.table([accountId,accEmail,accPassword,accCity,accState])
